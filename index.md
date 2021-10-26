@@ -6,7 +6,7 @@ WELCOME
 
 
 
-## Welcome to GitHub Pages
+## AFROVEST TOKEN 
 
 You can use the [editor on GitHub](https://github.com/Decetralized-Mortgage/Landingpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
